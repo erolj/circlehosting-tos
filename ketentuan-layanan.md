@@ -55,13 +55,13 @@ CircleHosting maupun Ertomedia Solusindo beserta seluruh jajaran manajemen tidak
 
 Pengguna secara tegas memahami dan menyetujui bahwa Ertomedia Solusindo dan para afiliasi, direktur, karyawan, agen, mitra dan pemberi lisensinya tidak akan bertanggung jawab kepada Pengguna atas kerugian yang bersifat langsung, tidak langsung, insidental, khusus, konsekuensial atau tipikal, termasuk, namun tidak terbatas pada, kerugian atas hilangnya profit, nama baik (goodwill), manfaat, data, biaya pengadaan barang atau jasa pengganti, atau kerugian tidak berwujud lainnya (bahkan jika Ertomedia Solusindo telah diberitahu tentang kemungkinan adanya kerugian tersebut), akibat dari:
 
-* Penggunaan atau ketidakmampuan untuk menggunakan layanan CircleHosting;
-* Segala perubahan yang dibuat terhadap layanan CircleHosting atau penghentian sementara atau permanen atas layanan CircleHosting atau setiap bagian daripadanya;
-* Akses tidak sah ke atau perubahan dari transmisi atau data Pengguna;
-* Penghapusan atas, kerusakan dari, atau kegagalan untuk menyimpan dan/atau mengirimkan atau menerima transmisi atau data Pengguna pada atau melalui layanan CircleHosting;
-* Pernyataan atau tindakan dari pihak ketiga pada layanan CircleHosting;
-* Adanya konten yang mengandung SARA dan atau pornografi yang ada di layanan CircleHosting dan
-* Masalah lain yang terkait dengan layanan CircleHosting.
+1. Penggunaan atau ketidakmampuan untuk menggunakan layanan CircleHosting;
+2. Segala perubahan yang dibuat terhadap layanan CircleHosting atau penghentian sementara atau permanen atas layanan CircleHosting atau setiap bagian daripadanya;
+3. Akses tidak sah ke atau perubahan dari transmisi atau data Pengguna;
+4. Penghapusan atas, kerusakan dari, atau kegagalan untuk menyimpan dan/atau mengirimkan atau menerima transmisi atau data Pengguna pada atau melalui layanan CircleHosting;
+5. Pernyataan atau tindakan dari pihak ketiga pada layanan CircleHosting;
+6. Adanya konten yang mengandung SARA dan atau pornografi yang ada di layanan CircleHosting dan
+7. Masalah lain yang terkait dengan layanan CircleHosting.
 
 ## Sangkalan​
 CircleHosting maupun Ertomedia Solusindo beserta seluruh jajaran manajemen tidak dapat dikenakan tanggung jawab atas terjadinya down time, kerusakan ataupun kehilangan data serta prakiraan keuntungan yang terjadi bagi pelanggan apabila layanan berfungsi dengan benar. Semua komponen layanan maupun layanan dari CircleHosting merupakan penjualan kembali dari pihak ketiga. Semua alat, routing, perangkat lunak yang digunakan oleh CircleHosting tidak dimiliki secara langsung maupun ditulis secara langsung oleh CircleHosting. Lebih jauh lagi, CircleHosting tidak bertanggung jawab atas akun layanan yang dimiliki oleh pelanggan, bagaimana serta penggunaan dari layanan tersebut oleh pelanggan. Apabila pelanggan tidak mematuhi ketentuan yang terdapat pada ketentuan layanan ini dapat berakibat pada pemutusan layanan yang terkait. Kami mempunyai hak untuk memutuskan akun tanpa pemberitahuan terlebih dahulu.
