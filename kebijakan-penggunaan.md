@@ -5,6 +5,12 @@ CircleHosting memberikan kebebasan untuk mengatur isi dari layanan yang Anda gun
 
 Berikut adalah tindakan yang DILARANG ketika Anda menggunakan layanan CircleHosting:
 
+## Indeks
+- [Konten](#konten)
+- [Penggunaan Sumber Daya](#penggunaan-sumber-daya)
+- [Kegiatan Ilegal Lainnya​](#kegiatan-ilegal-lainnya)
+- [Sanksi Terhadap Pelanggaran](#sanksi-terhadap-pelanggaran)
+
 ## Konten
 
 ### Pornografi dan Keasusilaan Umum.
