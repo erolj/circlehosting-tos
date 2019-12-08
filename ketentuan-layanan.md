@@ -21,6 +21,18 @@ Berikut ini merupakan contoh, dan tidak terbatas hanya pada contoh ini, dari mua
 > **PERHATIAN**
 > JIKA PADA AKUN ANDA TERDAPAT AKTIVITAS ILEGAL, TERMASUK TETAPI TIDAK TERBATAS PADA BERKAS AUDIO MAUPUN VIDEO ILEGAL, PIRANTI LUNAK BAJAKAN, PROGRAM HACKER, WAREZ, TROJAN HORSE, MALWARE, BACKDOOR, SPYWARE ATAUPUN BERKAS-BERKAS ILEGAL LAINNYA, AKUN ANDA AKAN TERPUTUS SECARA SEKETIKA.
 
+## Indeks
+- [Penggunaan Bandwidth​](#penggunaan-bandwidth)
+- [Penggunaan Resource Secara Normal​](#penggunaan-resource-secara-normal)
+- [Penyalahgunaan Layanan​](#penyalahgunaan-layanan)
+- [Penolakan Layanan​](#penolakan-layanan)
+- [Penagihan Dan Pembayaran Layanan​](#penagihan-dan-pembayaran-layanan)
+- [Pembayaran Melalui Transfer Antar Bank]​(#pembayaran-melalui-transfer-antar-bank)
+- [Pengembalian Uang (Refund)​](#penangguhan-dan-pemutusan-layanan-akibat-keterlambatan-pembayaran)
+- [Penangguhan Dan Pemutusan Layanan Akibat Keterlambatan Pembayaran​](#penangguhan-dan-pemutusan-layanan-akibat-keterlambatan-pembayaran)
+- [Keterbatasan Tanggung Jawab​](#keterbatasan-tanggung-jawab)
+- [Sangkalan​](#sangkalan)
+
 ## Penggunaan Bandwidth​
 Semua akun layanan CircleHosting yang mendapatkan bandwidth tidak dibatasi selama masih dalam batas kewajaran. Apabila pelanggan terindikasi menggunakan bandwidth untuk hal-hal ilegal seperti tergabung dalam botnet, seeding / leeching torrent atau kegiatan ilegal lainnya yang dapat menganggu pelanggan CircleHosting yang lain, maka kami akan melakukan suspend terhadap akun Anda. Akun yang tersuspend, dapat diajukan untuk dibuka kembali dengan cara mengirimkan request melalui tiket. Kami akan membuka kembali akun Anda jika sudah terbukti tidak melakukan pemakaian bandwidth secara tidak wajar. Permintaan ini dapat dilakukan pada jam kerja pukul 10:00 - 18:00.
 
