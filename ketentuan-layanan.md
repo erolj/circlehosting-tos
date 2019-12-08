@@ -27,7 +27,7 @@ Berikut ini merupakan contoh, dan tidak terbatas hanya pada contoh ini, dari mua
 - [Penyalahgunaan Layanan​](#penyalahgunaan-layanan)
 - [Penolakan Layanan​](#penolakan-layanan)
 - [Penagihan Dan Pembayaran Layanan​](#penagihan-dan-pembayaran-layanan)
-- [Pembayaran Melalui Transfer Antar Bank]​(#pembayaran-melalui-transfer-antar-bank)
+- [Pembayaran Melalui Transfer Antar Bank​](#pembayaran-melalui-transfer-antar-bank)
 - [Pengembalian Uang (Refund)​](#penangguhan-dan-pemutusan-layanan-akibat-keterlambatan-pembayaran)
 - [Penangguhan Dan Pemutusan Layanan Akibat Keterlambatan Pembayaran​](#penangguhan-dan-pemutusan-layanan-akibat-keterlambatan-pembayaran)
 - [Keterbatasan Tanggung Jawab​](#keterbatasan-tanggung-jawab)
