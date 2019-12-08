@@ -1,6 +1,11 @@
 # Kebijakan Privasi
 Kebijakan ini dibuat sebagai komitmen dari kami untuk kepercayaan anda sebagai pelangan kami, serta untuk menjaga kerahasiaan dari privasi anda. Hal tersebut kami sampaikan pada dokumen ini, tentang bagaimana pengelolaan informasi yang telah anda berikan kepada kami.
 
+## Indeks
+- [Pengumpulan Informasi](#pengumpulan-informasi)
+- [Proteksi Informasi](#proteksi-informasi)
+- [Penggunaan Informasi](#penggunaan-informasi)
+
 ## Pengumpulan Informasi
 Ketika anda mendaftar untuk berlangganan layanan CircleHosting, kami meminta beberapa data kepada anda seperti: nama lengkap, alamat email, alamat domisili yang dapat berupa alamat pribadi maupun alamat kantor, nomer telepon pribadi atau kantor, nomer fax pribadi atau kantor, pertanyaan rahasia dan jawabannya, serta password.
 
