@@ -5,6 +5,12 @@ Ketika CircleHosting tidak mampu memenuhi 99% waktu hidup per bulan maka akan ad
 
 SLA CircleHosting memiliki komitmen sebagai berikut:
 
+## Indeks
+- [Ketersediaan Layanan](#ketersediaan-layanan)
+- [Tanggung Jawab Cadangan Data (Backup)](#tanggung-jawab-cadangan-data-backup)
+- [Kredit Layanan](#kredit-layanan)
+- [Layanan Permintaan Kredit](#layanan-permintaan-kredit)
+
 ## Ketersediaan Layanan
 Semua layanan CircleHosting tersedia 99% setiap bulannya, namun tidak termasuk untuk:
 
